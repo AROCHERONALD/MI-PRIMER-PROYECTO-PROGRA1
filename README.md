@@ -1,6 +1,6 @@
 # MI-PRIMER-PROYECTO-PROGRA1
 # Mi Primer Proyecto
-Este es un proyecto de práctica para aprender Git y GitHub de Programación 1
-RONALD ANTONIO AROCHE SANTOS
+Este es un proyecto de práctica para aprender Git y GitHub de Programación 1. Donde aprenderemos nuevos conocimientos.
+RONALD ANTONIO AROCHE SANTOS. 2025
 ESTE PROYECTO DE PRACTICA NOS  NOS AYUDARA A AQUIRIR CONOCIMIENTOS DE GIT, RELACIONADOS A LA ASIGNATURA DE PROGRA 1.
 FRANYER NOE CONTRERAS ZEPEDA
