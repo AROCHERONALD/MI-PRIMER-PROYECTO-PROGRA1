@@ -1,0 +1,16 @@
+FRANYER NOE CONTRERAS ZEPEDA 0905 24 17512
+
+1. ¿Qué aprendiste sobre el flujo de trabajo con Git y GitHub?
+Aprendi sobre lo fundamental que pueden ser en programacion el poder aprender a utilizar cada una de sus funciones
+ya que me permiten, poder trabajar con otras personas atraves de los distintos comandos sin necesidad de estar presentes.
+
+2. ¿Cómo fue la experiencia de trabajar en parejas? ¿Encontraste
+algún conflicto? ¿Cómo lo resolviste? Fue increible poder trabajar con parejas ya que juntos se puede aprender mas, ya que
+dos cabezas piensan mas que una, y mas si lo pudimos hacer desde la comodidad de casa, bueno no se si fue conflicto solo 
+no comprendi mucho sobre la funcion de las ramas
+
+3. ¿Qué ventajas crees que tiene usar Git en proyectos de
+programación? una de las ventajas fundamentales es que se puede cambiar o editar el codigo, se puede trabajar el codigo de 
+manera simultaneas o muchas personas sin necesidad de estar presentes, el codigo esta seguro siempre y cuando se tenga las 
+credenciales del git todo nuestro codigo estara seguro.
+ 
