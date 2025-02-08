@@ -1,0 +1,24 @@
+
+i. ¿Qué aprendiste sobre el flujo de trabajo con Git y GitHub?
+Trabajar con Git y GitHub nos implica gestionar y colaborar en proyectos de desarrollo de software de manera eficiente con nuestros compañeros.
+Git es un sistema de control de versiones que te permite seguir los cambios realizados en los archivos, hacer retrocesos 
+a versiones anteriores y trabajar con ramas de forma independiente. GitHub es una plataforma basada en la web que hospeda
+repositorios Git, facilitando la colaboración entre varios desarrolladores, el seguimiento de problemas y la gestión de proyectos.
+La verdad son herramientas muy utiles hoy en dia para poder trabajar mutuamente un proyecto y tener segura nuestra informacion y no estar con el miedo que podamos 
+perder la informacion.
+
+
+
+ii. ¿Cómo fue la experiencia de trabajar en parejas? ¿Encontraste
+algún conflicto? ¿Cómo lo resolviste?
+Fue una experiencia agradable pero a la misma vez complicada porque nos topamos con varias problemas que aun no teniamos conocimiento, pero logramos ir resolviendo 
+juntos, creo que es muy importante estar en bastante comunicacion con el compañero que estamos trabajando.
+No fuimos apoyando con IA para ir resolviendo las dudas que nos ivan surgiendo y poniendolas en practica al instante.
+Fue de mucha ayuda y nos soluciono bastantes problemas
+
+
+
+iii. ¿Qué ventajas crees que tiene usar Git en proyectos de
+programación?
+Git nos mejora la organización, tambien facilita el trabajo en equipo y protege nuestro código y te da mucha flexibilidad al gestionar proyectos de programación. No estamos con el temor
+que podemos perder la informacion que estamos trabajando ya que todo esta en la nube para poder recuperarlo sin inconvenientes.
